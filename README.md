@@ -10,4 +10,4 @@ This project explores advanced Neural Conversational Models for open-domain conv
 
 ## Code
 
-- [ ] Baseline - Seq2seq with attentiona mechanism and beam search inference
+- [ ] Baseline - Seq2seq with attention mechanism and beam search inference
